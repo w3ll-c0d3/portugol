@@ -1,1 +1,1 @@
-# portugol
+# Algoritmos no Portugol 
